@@ -1,0 +1,3412 @@
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: -7887766328573622539) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 39, 29, 0] 
+  Score: 48 | Time: 28.6h | Distance: 28km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 252 | Runtime: 26ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -8376516236140611358) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 63, 14, 0] 
+  Score: 46 | Time: 34.3h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 41, 21, 55, 0] 
+  Score: 56 | Time: 34.9h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 55, 21, 41, 0] 
+  Score: 56 | Time: 34.9h | Distance: 35km
+Total Score: 222 | Runtime: 16ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 8652042515058291002) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 88, 29, 0] 
+  Score: 36 | Time: 33.1h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Total Score: 249 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -7516085678630037864) ====
+Vehicle 1: 
+  Route: [0, 101, 81, 29, 39, 0] 
+  Score: 39 | Time: 33.6h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 39, 57, 14, 0] 
+  Score: 61 | Time: 34.2h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 57, 14, 0] 
+  Score: 61 | Time: 33.6h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 39, 57, 14, 0] 
+  Score: 61 | Time: 33.6h | Distance: 34km
+Total Score: 222 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -4291978699033427843) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 39, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 290 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -3790171569309390112) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 0] 
+  Score: 32 | Time: 32.0h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 39, 28, 30, 0] 
+  Score: 47 | Time: 30.9h | Distance: 27km
+Vehicle 3: 
+  Route: [0, 39, 28, 30, 0] 
+  Score: 47 | Time: 32.8h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 63, 58, 21, 0] 
+  Score: 37 | Time: 34.8h | Distance: 35km
+Total Score: 163 | Runtime: 3ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -415984003003551531) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 30, 39, 41, 0] 
+  Score: 64 | Time: 33.1h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 75, 41, 0] 
+  Score: 27 | Time: 24.4h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 75, 28, 0] 
+  Score: 26 | Time: 29.4h | Distance: 29km
+Vehicle 4: 
+  Route: [0, 28, 75, 0] 
+  Score: 26 | Time: 29.4h | Distance: 29km
+Total Score: 143 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -6371456630162418498) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 0] 
+  Score: 41 | Time: 24.4h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 260 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -4436166852999928507) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 63, 55, 0] 
+  Score: 32 | Time: 32.5h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 14, 57, 21, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 33.7h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 14, 21, 41, 0] 
+  Score: 68 | Time: 31.7h | Distance: 32km
+Total Score: 240 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -2304285772562825760) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 75, 39, 0] 
+  Score: 40 | Time: 30.8h | Distance: 29km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 244 | Runtime: 7ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 290.0):
+Seed: -4291978699033427843
+Vehicle 1: 
+  Route: [0, 101, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 39, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: 8012717852035806459) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 81, 55, 0] 
+  Score: 40 | Time: 30.6h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 39, 75, 28, 30, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 75, 28, 30, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 38, 0] 
+  Score: 13 | Time: 33.9h | Distance: 34km
+Total Score: 165 | Runtime: 23ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -2407462815654058576) ====
+Vehicle 1: 
+  Route: [0, 101, 20, 30, 0] 
+  Score: 35 | Time: 30.5h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Total Score: 209 | Runtime: 33ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -4245707531019043852) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 0] 
+  Score: 45 | Time: 29.3h | Distance: 29km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 0] 
+  Score: 45 | Time: 29.3h | Distance: 29km
+Vehicle 4: 
+  Route: [0, 14, 63, 55, 0] 
+  Score: 45 | Time: 29.3h | Distance: 29km
+Total Score: 199 | Runtime: 19ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 319794663502008180) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 55, 39, 0] 
+  Score: 45 | Time: 31.5h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 63, 58, 14, 0] 
+  Score: 41 | Time: 34.7h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 63, 58, 14, 0] 
+  Score: 41 | Time: 31.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 63, 58, 14, 0] 
+  Score: 41 | Time: 31.5h | Distance: 31km
+Total Score: 168 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -1115154580805808205) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 75, 39, 0] 
+  Score: 40 | Time: 30.8h | Distance: 29km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Total Score: 232 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -8605893825186950183) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 14, 57, 0] 
+  Score: 47 | Time: 30.1h | Distance: 30km
+Total Score: 223 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -193742231657398789) ====
+Vehicle 1: 
+  Route: [0, 101, 58, 14, 21, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 41, 75, 39, 30, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 30, 39, 75, 41, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 30, 75, 41, 39, 0] 
+  Score: 57 | Time: 33.9h | Distance: 32km
+Total Score: 232 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -7381395825320444003) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 30, 20, 28, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 30, 20, 28, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 30, 20, 28, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Total Score: 220 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -7304586912520221762) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 30, 29, 0] 
+  Score: 55 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Total Score: 268 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -7966144582182097758) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.3h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Total Score: 239 | Runtime: 8ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 268.0):
+Seed: -7304586912520221762
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 30, 29, 0] 
+  Score: 55 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.s.txt
+Number of Vehicles: 4
+Tmax: 26.2
+----------------------------------------
+
+==== Run 1 (Seed: 4767186697902105215) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -8224410950769319925) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 5751249725226211947) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -858929676461547800) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 848262872041347746) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -8669743208207335644) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -3637893537894243025) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -5554995633183781502) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -8008032734911378887) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 5316767681904008723) ====
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Vehicle 0: 
+  Route: [] 
+  Score: 0 | Time: 0.0h | Distance: 0km
+Total Score: 0 | Runtime: 1ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 0.0):
+Seed: 0
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.4.s.txt
+Number of Vehicles: 4
+Tmax: 26.2
+----------------------------------------
+
+==== Run 1 (Seed: -3220842659219474168) ====
+Vehicle 1: 
+  Route: [0, 32, 2, 12, 19, 3, 13, 27, 6, 21, 23, 0] 
+  Score: 240 | Time: 25.8h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 21, 6, 27, 13, 3, 19, 12, 2, 32, 0] 
+  Score: 230 | Time: 25.8h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 19, 3, 13, 0] 
+  Score: 200 | Time: 22.2h | Distance: 21km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 16, 19, 3, 0] 
+  Score: 200 | Time: 24.3h | Distance: 24km
+Total Score: 870 | Runtime: 21ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 7004962283044593193) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 21, 6, 4, 13, 3, 2, 5, 31, 22, 32, 0] 
+  Score: 220 | Time: 26.2h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 16, 19, 0] 
+  Score: 200 | Time: 24.8h | Distance: 25km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 16, 19, 0] 
+  Score: 190 | Time: 24.6h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 16, 19, 0] 
+  Score: 190 | Time: 24.7h | Distance: 25km
+Total Score: 800 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -910368814337671972) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 3, 19, 27, 13, 4, 6, 21, 23, 0] 
+  Score: 230 | Time: 23.1h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 32, 22, 26, 3, 19, 27, 13, 4, 6, 21, 23, 0] 
+  Score: 230 | Time: 23.1h | Distance: 23km
+Vehicle 3: 
+  Route: [0, 31, 5, 12, 16, 2, 0] 
+  Score: 120 | Time: 25.7h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 31, 5, 12, 16, 2, 0] 
+  Score: 120 | Time: 25.7h | Distance: 26km
+Total Score: 700 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 7961198866398142769) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 26, 22, 0] 
+  Score: 200 | Time: 25.9h | Distance: 20km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 26, 22, 32, 0] 
+  Score: 200 | Time: 20.7h | Distance: 21km
+Vehicle 3: 
+  Route: [0, 26, 4, 6, 21, 29, 28, 0] 
+  Score: 140 | Time: 25.2h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 31, 7, 25, 0] 
+  Score: 130 | Time: 24.4h | Distance: 24km
+Total Score: 670 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -990277074140222918) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 1, 7, 0] 
+  Score: 200 | Time: 24.7h | Distance: 25km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 1, 7, 0] 
+  Score: 200 | Time: 24.7h | Distance: 25km
+Vehicle 3: 
+  Route: [0, 7, 1, 3, 13, 27, 4, 6, 21, 0] 
+  Score: 190 | Time: 24.7h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 12, 0] 
+  Score: 180 | Time: 23.7h | Distance: 24km
+Total Score: 770 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 677857806658441397) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 13, 27, 19, 3, 26, 22, 32, 0] 
+  Score: 230 | Time: 23.1h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 3, 13, 26, 22, 32, 0] 
+  Score: 180 | Time: 16.2h | Distance: 16km
+Vehicle 3: 
+  Route: [0, 31, 7, 30, 11, 28, 29, 25, 0] 
+  Score: 130 | Time: 25.3h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 1, 5, 14, 12, 2, 0] 
+  Score: 130 | Time: 24.9h | Distance: 25km
+Total Score: 670 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -962284315073955471) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 12, 2, 26, 22, 32, 0] 
+  Score: 230 | Time: 25.7h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 12, 2, 0] 
+  Score: 210 | Time: 23.7h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 23, 21, 6, 4, 16, 19, 0] 
+  Score: 190 | Time: 24.3h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 2, 12, 3, 13, 27, 4, 6, 21, 0] 
+  Score: 200 | Time: 23.7h | Distance: 24km
+Total Score: 830 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 2835148200297247766) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 19, 12, 3, 13, 0] 
+  Score: 240 | Time: 25.9h | Distance: 25km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 31, 22, 0] 
+  Score: 240 | Time: 24.4h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 32, 31, 1, 5, 2, 3, 13, 27, 4, 6, 21, 0] 
+  Score: 220 | Time: 23.6h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 19, 12, 3, 13, 0] 
+  Score: 230 | Time: 25.9h | Distance: 25km
+Total Score: 930 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -8078539231172512397) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 3, 13, 26, 22, 0] 
+  Score: 180 | Time: 20.8h | Distance: 15km
+Vehicle 2: 
+  Route: [0, 23, 26, 13, 19, 16, 12, 2, 3, 0] 
+  Score: 210 | Time: 25.7h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 21, 3, 19, 16, 12, 2, 0] 
+  Score: 210 | Time: 26.0h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 3, 19, 16, 12, 2, 0] 
+  Score: 210 | Time: 26.0h | Distance: 25km
+Total Score: 810 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 9101432879691578227) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 13, 3, 27, 4, 6, 21, 24, 23, 0] 
+  Score: 190 | Time: 24.3h | Distance: 22km
+Vehicle 2: 
+  Route: [0, 32, 22, 26, 13, 3, 27, 4, 6, 21, 24, 23, 0] 
+  Score: 190 | Time: 24.8h | Distance: 22km
+Vehicle 3: 
+  Route: [0, 31, 1, 5, 2, 12, 19, 0] 
+  Score: 150 | Time: 24.4h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 31, 1, 5, 2, 12, 19, 0] 
+  Score: 150 | Time: 24.4h | Distance: 24km
+Total Score: 680 | Runtime: 6ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 930.0):
+Seed: 2835148200297247766
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 19, 12, 3, 13, 0] 
+  Score: 240 | Time: 25.9h | Distance: 25km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 31, 22, 0] 
+  Score: 240 | Time: 24.4h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 32, 31, 1, 5, 2, 3, 13, 27, 4, 6, 21, 0] 
+  Score: 220 | Time: 23.6h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 19, 12, 3, 13, 0] 
+  Score: 230 | Time: 25.9h | Distance: 25km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: 1500129208124322552) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 21, 63, 0] 
+  Score: 44 | Time: 33.4h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 63, 58, 57, 14, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 63, 58, 57, 14, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 14, 57, 58, 63, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Total Score: 227 | Runtime: 24ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -5681792866519380042) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 0] 
+  Score: 32 | Time: 32.0h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 270 | Runtime: 26ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 1604385517221295389) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 30, 29, 0] 
+  Score: 46 | Time: 27.8h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 265 | Runtime: 12ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 8037897371126868079) ====
+Vehicle 1: 
+  Route: [0, 101, 81, 24, 0] 
+  Score: 21 | Time: 34.7h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 225 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -8274078241893133661) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 21, 14, 55, 0] 
+  Score: 65 | Time: 32.7h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 21, 14, 55, 0] 
+  Score: 65 | Time: 32.7h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 31.0h | Distance: 31km
+Total Score: 243 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -6873189024662157367) ====
+Vehicle 1: 
+  Route: [0, 101, 20, 28, 39, 0] 
+  Score: 50 | Time: 34.6h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 269 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -5155912812449580282) ====
+Vehicle 1: 
+  Route: [0, 101, 50, 30, 0] 
+  Score: 29 | Time: 31.4h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 63, 14, 21, 41, 39, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Total Score: 243 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 2269847673157793588) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 55, 39, 0] 
+  Score: 45 | Time: 31.5h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 21, 41, 75, 0] 
+  Score: 50 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 21, 41, 75, 0] 
+  Score: 50 | Time: 34.4h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 21, 41, 75, 0] 
+  Score: 50 | Time: 32.6h | Distance: 33km
+Total Score: 195 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -4331683235652618370) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 30, 29, 0] 
+  Score: 50 | Time: 32.8h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 39, 21, 14, 63, 0] 
+  Score: 67 | Time: 32.5h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 21, 14, 63, 0] 
+  Score: 67 | Time: 32.5h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 39, 21, 14, 63, 0] 
+  Score: 67 | Time: 32.5h | Distance: 33km
+Total Score: 251 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -5516086343781685068) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 29, 81, 0] 
+  Score: 41 | Time: 32.9h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 21, 41, 75, 39, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Total Score: 233 | Runtime: 7ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 270.0):
+Seed: -5681792866519380042
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 0] 
+  Score: 32 | Time: 32.0h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: -4269602576573617701) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 30, 29, 0] 
+  Score: 46 | Time: 26.7h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 75, 41, 21, 0] 
+  Score: 50 | Time: 34.4h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 41, 75, 28, 0] 
+  Score: 44 | Time: 31.4h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 41, 75, 28, 0] 
+  Score: 44 | Time: 31.4h | Distance: 31km
+Total Score: 184 | Runtime: 20ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 3993839945213982958) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 0] 
+  Score: 41 | Time: 32.0h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 14, 57, 21, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Total Score: 251 | Runtime: 31ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 3891387956929500223) ====
+Vehicle 1: 
+  Route: [0, 101, 14, 58, 63, 55, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Total Score: 230 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 8662188452498032983) ====
+Vehicle 1: 
+  Route: [0, 101, 81, 29, 30, 0] 
+  Score: 41 | Time: 32.9h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Total Score: 296 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -9070722014185988957) ====
+Vehicle 1: 
+  Route: [0, 101, 58, 100, 0] 
+  Score: 20 | Time: 35.0h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 30, 75, 41, 39, 0] 
+  Score: 57 | Time: 33.9h | Distance: 32km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 30, 0] 
+  Score: 57 | Time: 32.1h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 39, 41, 75, 30, 0] 
+  Score: 57 | Time: 32.1h | Distance: 32km
+Total Score: 191 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -1112197994811514195) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 28, 0] 
+  Score: 49 | Time: 33.4h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 29, 81, 55, 0] 
+  Score: 40 | Time: 34.7h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 30, 20, 0] 
+  Score: 35 | Time: 30.5h | Distance: 31km
+Total Score: 176 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -3935841814975484379) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 81, 29, 0] 
+  Score: 40 | Time: 30.6h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 30, 28, 75, 41, 0] 
+  Score: 60 | Time: 34.6h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Total Score: 216 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -8408622726696290970) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 24, 0] 
+  Score: 27 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 246 | Runtime: 11ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -4283675504660169631) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Total Score: 226 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -1549416176123566112) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 28, 30, 0] 
+  Score: 65 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Total Score: 275 | Runtime: 10ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 296.0):
+Seed: 8662188452498032983
+Vehicle 1: 
+  Route: [0, 101, 81, 29, 30, 0] 
+  Score: 41 | Time: 32.9h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: 1511121323081733069) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 39, 41, 21, 0] 
+  Score: 55 | Time: 34.6h | Distance: 27km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 0] 
+  Score: 55 | Time: 26.8h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 39, 41, 21, 0] 
+  Score: 55 | Time: 26.8h | Distance: 27km
+Total Score: 217 | Runtime: 33ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -2470018387606367159) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 81, 55, 0] 
+  Score: 40 | Time: 34.7h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 41, 75, 39, 30, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 41, 75, 39, 30, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 30, 39, 75, 41, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Total Score: 211 | Runtime: 19ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -3866386527281019495) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 28, 39, 0] 
+  Score: 47 | Time: 30.9h | Distance: 27km
+Vehicle 2: 
+  Route: [0, 55, 21, 41, 0] 
+  Score: 56 | Time: 34.9h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 75, 41, 21, 0] 
+  Score: 50 | Time: 34.4h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 75, 41, 21, 0] 
+  Score: 50 | Time: 32.6h | Distance: 33km
+Total Score: 203 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -6506126971464181135) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 21, 14, 0] 
+  Score: 68 | Time: 34.8h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 41, 14, 0] 
+  Score: 45 | Time: 31.1h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 41, 14, 0] 
+  Score: 45 | Time: 31.1h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 39, 14, 0] 
+  Score: 41 | Time: 28.2h | Distance: 28km
+Total Score: 199 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 5130868804555477234) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 32.8h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 29, 81, 55, 0] 
+  Score: 40 | Time: 30.6h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 39, 41, 75, 28, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Total Score: 214 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 2115379081815626228) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 21, 63, 0] 
+  Score: 58 | Time: 33.9h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 81, 29, 30, 0] 
+  Score: 41 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 0] 
+  Score: 55 | Time: 26.8h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 57, 14, 0] 
+  Score: 47 | Time: 30.1h | Distance: 30km
+Total Score: 201 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -5621764086369359473) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 30, 28, 75, 39, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 75, 28, 30, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 39, 75, 28, 30, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Total Score: 239 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 7275899383682232109) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 63, 55, 0] 
+  Score: 32 | Time: 32.5h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 41, 21, 14, 0] 
+  Score: 68 | Time: 31.7h | Distance: 32km
+Vehicle 3: 
+  Route: [0, 41, 21, 14, 0] 
+  Score: 68 | Time: 31.7h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 14, 21, 41, 0] 
+  Score: 68 | Time: 31.7h | Distance: 32km
+Total Score: 236 | Runtime: 12ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -6661673999929680143) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Total Score: 265 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 3652658987764746380) ====
+Vehicle 1: 
+  Route: [0, 101, 59, 21, 0] 
+  Score: 35 | Time: 34.8h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.6h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 238 | Runtime: 6ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 265.0):
+Seed: -6661673999929680143
+Vehicle 1: 
+  Route: [0, 101, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: 5857773984016618451) ====
+Vehicle 1: 
+  Route: [0, 101, 50, 30, 0] 
+  Score: 29 | Time: 31.4h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 248 | Runtime: 67ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -7812561833440756851) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 30, 29, 0] 
+  Score: 46 | Time: 23.4h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 41, 63, 55, 0] 
+  Score: 36 | Time: 34.9h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 41, 63, 55, 0] 
+  Score: 36 | Time: 34.9h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 55, 63, 41, 0] 
+  Score: 36 | Time: 34.9h | Distance: 35km
+Total Score: 154 | Runtime: 37ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 5970206836350583508) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Total Score: 253 | Runtime: 35ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -7816169234278511840) ====
+Vehicle 1: 
+  Route: [0, 101, 63, 58, 14, 0] 
+  Score: 41 | Time: 33.6h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.5h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 30, 28, 75, 41, 0] 
+  Score: 60 | Time: 34.6h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 30, 75, 41, 39, 0] 
+  Score: 57 | Time: 33.9h | Distance: 32km
+Total Score: 215 | Runtime: 29ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 8258228368719745127) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 30, 29, 0] 
+  Score: 55 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 28, 20, 0] 
+  Score: 36 | Time: 33.3h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 28, 20, 0] 
+  Score: 36 | Time: 33.3h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 28, 20, 0] 
+  Score: 36 | Time: 33.3h | Distance: 33km
+Total Score: 163 | Runtime: 23ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -7129100798891363308) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 75, 30, 0] 
+  Score: 57 | Time: 32.1h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 276 | Runtime: 25ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 3942306310613777992) ====
+Vehicle 1: 
+  Route: [0, 101, 14, 41, 39, 0] 
+  Score: 59 | Time: 31.7h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 31.0h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 31.0h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 30, 28, 75, 0] 
+  Score: 42 | Time: 32.6h | Distance: 33km
+Total Score: 199 | Runtime: 24ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 4737412572252662958) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 0] 
+  Score: 32 | Time: 32.0h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 33.7h | Distance: 31km
+Total Score: 248 | Runtime: 20ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -6678234174058254983) ====
+Vehicle 1: 
+  Route: [0, 101, 81, 24, 0] 
+  Score: 21 | Time: 34.7h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 39, 41, 28, 30, 0] 
+  Score: 65 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 39, 41, 28, 30, 0] 
+  Score: 65 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 30, 28, 41, 39, 0] 
+  Score: 65 | Time: 33.8h | Distance: 34km
+Total Score: 216 | Runtime: 15ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -4868471048060305773) ====
+Vehicle 1: 
+  Route: [0, 101, 38, 30, 0] 
+  Score: 29 | Time: 35.0h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Total Score: 221 | Runtime: 11ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 276.0):
+Seed: -7129100798891363308
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 75, 30, 0] 
+  Score: 57 | Time: 32.1h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: 5546594329797191115) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 101, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.3h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 41, 75, 0] 
+  Score: 50 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 0] 
+  Score: 50 | Time: 32.4h | Distance: 32km
+Total Score: 221 | Runtime: 192ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 2829167405213864033) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 75, 41, 0] 
+  Score: 43 | Time: 31.5h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 41, 75, 28, 30, 0] 
+  Score: 60 | Time: 34.6h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 30, 28, 75, 41, 0] 
+  Score: 60 | Time: 34.6h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 75, 41, 21, 0] 
+  Score: 50 | Time: 32.6h | Distance: 33km
+Total Score: 213 | Runtime: 119ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -375533573923809841) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 33.7h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Total Score: 266 | Runtime: 108ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 1994155444859526144) ====
+Vehicle 1: 
+  Route: [0, 101, 20, 28, 39, 0] 
+  Score: 50 | Time: 34.6h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.3h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Total Score: 221 | Runtime: 100ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -7812419320999305785) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 28, 30, 0] 
+  Score: 56 | Time: 32.6h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 260 | Runtime: 102ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -2192446659811912152) ====
+Vehicle 1: 
+  Route: [0, 101, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 30, 20, 28, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 28, 20, 30, 0] 
+  Score: 52 | Time: 33.8h | Distance: 34km
+Total Score: 213 | Runtime: 102ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 5485780527665044029) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 75, 41, 39, 0] 
+  Score: 57 | Time: 33.9h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 261 | Runtime: 101ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 2509915903246628319) ====
+Vehicle 1: 
+  Route: [0, 101, 21, 57, 14, 0] 
+  Score: 70 | Time: 33.7h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 0] 
+  Score: 50 | Time: 32.4h | Distance: 32km
+Vehicle 3: 
+  Route: [0, 39, 75, 41, 21, 0] 
+  Score: 64 | Time: 32.6h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 57, 14, 63, 0] 
+  Score: 50 | Time: 32.4h | Distance: 32km
+Total Score: 234 | Runtime: 93ms
+--------------------------------------------------
+
+==== Run 9 (Seed: 76596437903443335) ====
+Vehicle 1: 
+  Route: [0, 101, 88, 61, 30, 0] 
+  Score: 32 | Time: 35.0h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.1h | Distance: 34km
+Total Score: 203 | Runtime: 100ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 2019439495973495273) ====
+Vehicle 1: 
+  Route: [0, 57, 21, 0] 
+  Score: 43 | Time: 31.1h | Distance: 31km
+Vehicle 2: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 262 | Runtime: 105ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 266.0):
+Seed: -375533573923809841
+Vehicle 1: 
+  Route: [0, 101, 55, 63, 58, 14, 0] 
+  Score: 56 | Time: 34.4h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 33.7h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 0] 
+  Score: 70 | Time: 31.5h | Distance: 31km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.2.a.txt
+Number of Vehicles: 2
+Tmax: 7.5
+----------------------------------------
+
+==== Run 1 (Seed: 2481058015541542308) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 32, 0] 
+  Score: 30 | Time: 5.7h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 33ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -6763017996081192181) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 32, 0] 
+  Score: 30 | Time: 7.3h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 22, 0] 
+  Score: 60 | Time: 6.7h | Distance: 7km
+Total Score: 90 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -1911928147017525281) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 8047803933322225702) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 23, 0] 
+  Score: 30 | Time: 6.7h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -8371704998493137482) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 26, 22, 0] 
+  Score: 80 | Time: 7.3h | Distance: 7km
+Vehicle 2: 
+  Route: [0, 23, 21, 26, 22, 0] 
+  Score: 80 | Time: 7.3h | Distance: 7km
+Total Score: 160 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -2513712235227227465) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 23, 0] 
+  Score: 30 | Time: 6.7h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -3757739613792808537) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 32, 0] 
+  Score: 30 | Time: 6.4h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -7517835636625561247) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 32, 0] 
+  Score: 30 | Time: 6.7h | Distance: 6km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -8343834491430313960) ====
+Vehicle 1: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 100 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 8485889000800478142) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 80 | Runtime: 8ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 160.0):
+Seed: -8371704998493137482
+Vehicle 1: 
+  Route: [0, 23, 21, 26, 22, 0] 
+  Score: 80 | Time: 7.3h | Distance: 7km
+Vehicle 2: 
+  Route: [0, 23, 21, 26, 22, 0] 
+  Score: 80 | Time: 7.3h | Distance: 7km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.2.c.txt
+Number of Vehicles: 2
+Tmax: 12.5
+----------------------------------------
+
+==== Run 1 (Seed: 4484824507900877123) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 13, 26, 22, 32, 0] 
+  Score: 110 | Time: 11.8h | Distance: 12km
+Vehicle 2: 
+  Route: [0, 32, 22, 26, 13, 21, 23, 0] 
+  Score: 110 | Time: 11.8h | Distance: 12km
+Total Score: 220 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -2720575276546140235) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 21, 23, 0] 
+  Score: 80 | Time: 9.0h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 13, 27, 3, 0] 
+  Score: 60 | Time: 10.9h | Distance: 10km
+Total Score: 140 | Runtime: 19ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -7523566179018044901) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 27, 13, 26, 22, 0] 
+  Score: 120 | Time: 12.4h | Distance: 12km
+Vehicle 2: 
+  Route: [0, 23, 21, 27, 13, 26, 22, 0] 
+  Score: 120 | Time: 12.4h | Distance: 12km
+Total Score: 240 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -28419862242390614) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 26, 22, 32, 0] 
+  Score: 120 | Time: 11.9h | Distance: 12km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 26, 22, 32, 0] 
+  Score: 120 | Time: 11.9h | Distance: 12km
+Total Score: 240 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -4368970544181484002) ====
+Vehicle 1: 
+  Route: [0, 22, 3, 27, 13, 26, 23, 0] 
+  Score: 90 | Time: 12.0h | Distance: 11km
+Vehicle 2: 
+  Route: [0, 23, 26, 13, 27, 3, 22, 0] 
+  Score: 90 | Time: 11.0h | Distance: 11km
+Total Score: 180 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 2252649632422663656) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 4, 26, 22, 32, 0] 
+  Score: 100 | Time: 12.3h | Distance: 11km
+Vehicle 2: 
+  Route: [0, 23, 21, 4, 26, 22, 32, 0] 
+  Score: 100 | Time: 12.3h | Distance: 11km
+Total Score: 200 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -7943476853991456838) ====
+Vehicle 1: 
+  Route: [0, 26, 4, 6, 21, 23, 0] 
+  Score: 110 | Time: 10.8h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 21, 6, 13, 0] 
+  Score: 100 | Time: 12.3h | Distance: 12km
+Total Score: 210 | Runtime: 11ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 4833764477946663173) ====
+Vehicle 1: 
+  Route: [0, 3, 27, 13, 26, 23, 0] 
+  Score: 80 | Time: 11.3h | Distance: 11km
+Vehicle 2: 
+  Route: [0, 23, 13, 27, 3, 0] 
+  Score: 70 | Time: 11.2h | Distance: 11km
+Total Score: 150 | Runtime: 12ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -1736646688903505665) ====
+Vehicle 1: 
+  Route: [0, 22, 26, 21, 23, 0] 
+  Score: 80 | Time: 8.3h | Distance: 7km
+Vehicle 2: 
+  Route: [0, 23, 21, 26, 22, 32, 0] 
+  Score: 80 | Time: 8.1h | Distance: 8km
+Total Score: 160 | Runtime: 12ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -68766894418757033) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 26, 21, 23, 0] 
+  Score: 80 | Time: 10.8h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 21, 26, 22, 32, 0] 
+  Score: 80 | Time: 8.1h | Distance: 8km
+Total Score: 160 | Runtime: 10ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 240.0):
+Seed: -7523566179018044901
+Vehicle 1: 
+  Route: [0, 23, 21, 27, 13, 26, 22, 0] 
+  Score: 120 | Time: 12.4h | Distance: 12km
+Vehicle 2: 
+  Route: [0, 23, 21, 27, 13, 26, 22, 0] 
+  Score: 120 | Time: 12.4h | Distance: 12km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.3.a.txt
+Number of Vehicles: 3
+Tmax: 8.3
+----------------------------------------
+
+==== Run 1 (Seed: 445603098925140489) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 130 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -2472945176824768031) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 130 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 835400758191940360) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 0ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 8997823977051403865) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.4h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -4451311836369541920) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 7ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 741362194321988703) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 130 | Runtime: 3ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -5750880717363136483) ====
+Vehicle 1: 
+  Route: [0, 22, 23, 0] 
+  Score: 20 | Time: 3.7h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 1ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -4904357554064838855) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 0] 
+  Score: 20 | Time: 3.7h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 3ms
+--------------------------------------------------
+
+==== Run 9 (Seed: 5515973732843924527) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -133370873671862792) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 23, 0] 
+  Score: 20 | Time: 4.4h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 1ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 130.0):
+Seed: 445603098925140489
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.3.c.txt
+Number of Vehicles: 3
+Tmax: 8.3
+----------------------------------------
+
+==== Run 1 (Seed: -66694733749607302) ====
+Vehicle 1: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 190 | Runtime: 12ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 4197673779760892489) ====
+Vehicle 1: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Total Score: 240 | Runtime: 10ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 4937973145834655774) ====
+Vehicle 1: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 190 | Runtime: 14ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 4579241707947221610) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 23, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 180 | Runtime: 8ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 1927392245685093793) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 26, 22, 32, 0] 
+  Score: 80 | Time: 8.1h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 21, 26, 0] 
+  Score: 70 | Time: 6.7h | Distance: 7km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 180 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 3669266485324741601) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 23, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Total Score: 220 | Runtime: 6ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -2827332886134248676) ====
+Vehicle 1: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 190 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 972388047568845642) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 23, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 200 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 9 (Seed: 3159017061318527354) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Total Score: 210 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 2251447142328382296) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 23, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 21, 6, 0] 
+  Score: 70 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 13, 0] 
+  Score: 30 | Time: 8.0h | Distance: 8km
+Total Score: 180 | Runtime: 5ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 240.0):
+Seed: 4197673779760892489
+Vehicle 1: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 2: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+Vehicle 3: 
+  Route: [0, 23, 6, 21, 0] 
+  Score: 80 | Time: 8.3h | Distance: 8km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.3.a.txt
+Number of Vehicles: 3
+Tmax: 5.0
+----------------------------------------
+
+==== Run 1 (Seed: -1425981338150316845) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 0] 
+  Score: 20 | Time: 3.7h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -6107107230551030518) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 2422633221529034738) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -6022458854770876202) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 130 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -5981652973443228808) ====
+Vehicle 1: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 150 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -6795109938083582012) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 23, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 5ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 1066368910837889985) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 0] 
+  Score: 30 | Time: 4.9h | Distance: 5km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 130 | Runtime: 4ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 1138255451627541453) ====
+Vehicle 1: 
+  Route: [0, 23, 22, 32, 0] 
+  Score: 20 | Time: 4.4h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 3ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -1342226558736368992) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 23, 0] 
+  Score: 20 | Time: 4.8h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 3ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -811044936952473805) ====
+Vehicle 1: 
+  Route: [0, 32, 22, 23, 0] 
+  Score: 20 | Time: 4.4h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Total Score: 120 | Runtime: 4ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 150.0):
+Seed: -5981652973443228808
+Vehicle 1: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 2: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+Vehicle 3: 
+  Route: [0, 21, 0] 
+  Score: 50 | Time: 4.5h | Distance: 4km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.4.s.txt
+Number of Vehicles: 4
+Tmax: 26.2
+----------------------------------------
+
+==== Run 1 (Seed: -7851764151794753071) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 31, 32, 22, 26, 0] 
+  Score: 210 | Time: 25.8h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 31, 32, 22, 26, 0] 
+  Score: 210 | Time: 25.8h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 19, 16, 12, 5, 1, 0] 
+  Score: 160 | Time: 25.3h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 19, 16, 12, 5, 1, 0] 
+  Score: 160 | Time: 25.3h | Distance: 25km
+Total Score: 740 | Runtime: 77ms
+--------------------------------------------------
+
+==== Run 2 (Seed: -8859710901714744390) ====
+Vehicle 1: 
+  Route: [0, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 200 | Time: 24.4h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 3, 2, 12, 16, 19, 27, 13, 0] 
+  Score: 200 | Time: 24.5h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 200 | Time: 24.0h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 200 | Time: 24.5h | Distance: 24km
+Total Score: 800 | Runtime: 79ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 6001743578189875387) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 13, 3, 19, 16, 12, 2, 22, 32, 0] 
+  Score: 220 | Time: 24.2h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 26, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 210 | Time: 24.5h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 26, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 210 | Time: 25.2h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 200 | Time: 24.6h | Distance: 24km
+Total Score: 840 | Runtime: 76ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 1196551021147755025) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 4, 27, 19, 3, 13, 26, 22, 32, 0] 
+  Score: 210 | Time: 22.0h | Distance: 22km
+Vehicle 2: 
+  Route: [0, 23, 21, 4, 27, 3, 13, 26, 22, 31, 25, 32, 0] 
+  Score: 180 | Time: 23.6h | Distance: 23km
+Vehicle 3: 
+  Route: [0, 21, 4, 27, 3, 13, 26, 22, 31, 32, 0] 
+  Score: 160 | Time: 22.3h | Distance: 19km
+Vehicle 4: 
+  Route: [0, 5, 12, 16, 19, 2, 0] 
+  Score: 160 | Time: 25.9h | Distance: 25km
+Total Score: 710 | Runtime: 73ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -3768051502227360813) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 13, 27, 3, 19, 2, 26, 22, 32, 0] 
+  Score: 210 | Time: 24.6h | Distance: 23km
+Vehicle 2: 
+  Route: [0, 23, 21, 13, 27, 3, 19, 2, 26, 22, 0] 
+  Score: 210 | Time: 24.6h | Distance: 23km
+Vehicle 3: 
+  Route: [0, 6, 4, 16, 12, 0] 
+  Score: 110 | Time: 26.1h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 6, 4, 12, 5, 1, 0] 
+  Score: 110 | Time: 25.3h | Distance: 25km
+Total Score: 640 | Runtime: 69ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -1142694542719563661) ====
+Vehicle 1: 
+  Route: [0, 23, 26, 22, 2, 3, 13, 27, 4, 6, 21, 24, 0] 
+  Score: 210 | Time: 25.5h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 24, 21, 6, 4, 27, 3, 13, 26, 22, 0] 
+  Score: 190 | Time: 21.5h | Distance: 21km
+Vehicle 3: 
+  Route: [0, 1, 5, 2, 16, 19, 0] 
+  Score: 150 | Time: 26.1h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 1, 5, 2, 16, 19, 0] 
+  Score: 150 | Time: 26.0h | Distance: 26km
+Total Score: 700 | Runtime: 73ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 2131414280690645942) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 26, 13, 5, 1, 7, 31, 22, 0] 
+  Score: 180 | Time: 25.5h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 32, 22, 26, 13, 27, 4, 6, 21, 24, 23, 0] 
+  Score: 170 | Time: 25.7h | Distance: 20km
+Vehicle 3: 
+  Route: [0, 2, 14, 12, 19, 3, 0] 
+  Score: 160 | Time: 25.9h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 3, 19, 12, 14, 2, 0] 
+  Score: 160 | Time: 25.8h | Distance: 26km
+Total Score: 670 | Runtime: 90ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -7450272754870729981) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 4, 27, 13, 3, 2, 12, 5, 1, 0] 
+  Score: 230 | Time: 26.2h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 0] 
+  Score: 220 | Time: 25.0h | Distance: 23km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 2, 5, 1, 31, 0] 
+  Score: 220 | Time: 23.6h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 2, 5, 1, 0] 
+  Score: 210 | Time: 23.3h | Distance: 23km
+Total Score: 880 | Runtime: 84ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -2682817640484804721) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 31, 22, 26, 0] 
+  Score: 250 | Time: 26.0h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 7, 0] 
+  Score: 240 | Time: 25.9h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 7, 0] 
+  Score: 240 | Time: 25.9h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 13, 27, 16, 19, 2, 3, 0] 
+  Score: 170 | Time: 24.3h | Distance: 23km
+Total Score: 900 | Runtime: 91ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -5724738245434842200) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 5, 1, 7, 0] 
+  Score: 220 | Time: 25.7h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 5, 1, 31, 26, 0] 
+  Score: 220 | Time: 26.1h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 5, 1, 31, 0] 
+  Score: 200 | Time: 23.4h | Distance: 23km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 5, 0] 
+  Score: 170 | Time: 21.9h | Distance: 22km
+Total Score: 810 | Runtime: 85ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 900.0):
+Seed: -2682817640484804721
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 31, 22, 26, 0] 
+  Score: 250 | Time: 26.0h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 7, 0] 
+  Score: 240 | Time: 25.9h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 5, 1, 7, 0] 
+  Score: 240 | Time: 25.9h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 13, 27, 16, 19, 2, 3, 0] 
+  Score: 170 | Time: 24.3h | Distance: 23km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p3.4.t.txt
+Number of Vehicles: 4
+Tmax: 27.5
+----------------------------------------
+
+==== Run 1 (Seed: 7445875624314358028) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 4, 27, 16, 19, 3, 13, 0] 
+  Score: 240 | Time: 26.3h | Distance: 25km
+Vehicle 2: 
+  Route: [0, 21, 6, 4, 27, 16, 19, 3, 13, 0] 
+  Score: 240 | Time: 26.3h | Distance: 25km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 12, 5, 2, 0] 
+  Score: 220 | Time: 27.0h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 13, 3, 12, 19, 27, 4, 6, 21, 0] 
+  Score: 230 | Time: 27.1h | Distance: 25km
+Total Score: 930 | Runtime: 52ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 3041013498554144948) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 13, 27, 19, 12, 2, 3, 31, 32, 0] 
+  Score: 230 | Time: 27.4h | Distance: 27km
+Vehicle 2: 
+  Route: [0, 23, 21, 13, 27, 19, 12, 2, 3, 22, 32, 0] 
+  Score: 230 | Time: 27.2h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 21, 13, 27, 19, 12, 2, 3, 0] 
+  Score: 210 | Time: 24.5h | Distance: 23km
+Vehicle 4: 
+  Route: [0, 2, 12, 19, 3, 27, 13, 21, 0] 
+  Score: 210 | Time: 24.5h | Distance: 24km
+Total Score: 880 | Runtime: 48ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -5766710927553091288) ====
+Vehicle 1: 
+  Route: [0, 32, 31, 12, 16, 19, 27, 13, 3, 0] 
+  Score: 190 | Time: 27.4h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 13, 27, 19, 16, 12, 2, 3, 0] 
+  Score: 200 | Time: 27.4h | Distance: 24km
+Vehicle 3: 
+  Route: [0, 13, 27, 3, 2, 19, 12, 5, 1, 0] 
+  Score: 200 | Time: 27.4h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 2, 19, 16, 12, 5, 1, 0] 
+  Score: 180 | Time: 27.3h | Distance: 26km
+Total Score: 770 | Runtime: 33ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -8403518835424053003) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 2, 0] 
+  Score: 240 | Time: 26.5h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 2, 0] 
+  Score: 240 | Time: 26.4h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 3, 0] 
+  Score: 240 | Time: 26.1h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 3, 0] 
+  Score: 240 | Time: 25.4h | Distance: 25km
+Total Score: 960 | Runtime: 28ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 7751487340811483034) ====
+Vehicle 1: 
+  Route: [0, 23, 24, 21, 6, 4, 27, 3, 13, 26, 22, 31, 32, 0] 
+  Score: 200 | Time: 26.7h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 23, 24, 21, 6, 4, 27, 3, 13, 26, 22, 31, 32, 0] 
+  Score: 200 | Time: 26.7h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 2, 19, 16, 12, 5, 0] 
+  Score: 160 | Time: 26.5h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 2, 19, 16, 12, 5, 0] 
+  Score: 160 | Time: 26.5h | Distance: 25km
+Total Score: 720 | Runtime: 27ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 166973394307039420) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 4, 19, 16, 12, 0] 
+  Score: 210 | Time: 26.7h | Distance: 27km
+Vehicle 2: 
+  Route: [0, 21, 6, 4, 19, 16, 12, 0] 
+  Score: 210 | Time: 27.4h | Distance: 27km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 19, 16, 12, 0] 
+  Score: 210 | Time: 26.7h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 19, 16, 12, 0] 
+  Score: 210 | Time: 26.7h | Distance: 27km
+Total Score: 840 | Runtime: 31ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -4496030224021802429) ====
+Vehicle 1: 
+  Route: [0, 32, 29, 28, 22, 26, 6, 21, 23, 0] 
+  Score: 140 | Time: 27.3h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 4, 27, 16, 19, 2, 3, 13, 0] 
+  Score: 190 | Time: 26.8h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 4, 27, 16, 19, 2, 3, 13, 0] 
+  Score: 190 | Time: 26.8h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 4, 27, 16, 19, 2, 3, 13, 0] 
+  Score: 190 | Time: 26.7h | Distance: 26km
+Total Score: 710 | Runtime: 29ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 3879252887778691904) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 27, 16, 19, 3, 13, 0] 
+  Score: 230 | Time: 26.2h | Distance: 25km
+Vehicle 2: 
+  Route: [0, 23, 26, 13, 27, 16, 19, 3, 22, 0] 
+  Score: 180 | Time: 23.6h | Distance: 21km
+Vehicle 3: 
+  Route: [0, 12, 15, 16, 19, 3, 13, 0] 
+  Score: 210 | Time: 27.1h | Distance: 27km
+Vehicle 4: 
+  Route: [0, 13, 27, 16, 19, 2, 3, 0] 
+  Score: 170 | Time: 25.8h | Distance: 23km
+Total Score: 790 | Runtime: 33ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -3368917506141559490) ====
+Vehicle 1: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 12, 2, 0] 
+  Score: 200 | Time: 24.1h | Distance: 24km
+Vehicle 2: 
+  Route: [0, 2, 12, 16, 19, 3, 13, 27, 4, 0] 
+  Score: 220 | Time: 27.0h | Distance: 27km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 12, 2, 0] 
+  Score: 200 | Time: 24.1h | Distance: 24km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 27, 13, 3, 12, 2, 0] 
+  Score: 200 | Time: 24.1h | Distance: 24km
+Total Score: 820 | Runtime: 27ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -1858804080801859479) ====
+Vehicle 1: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 1, 31, 22, 26, 32, 0] 
+  Score: 230 | Time: 26.8h | Distance: 27km
+Vehicle 2: 
+  Route: [0, 23, 21, 6, 4, 27, 13, 3, 2, 1, 31, 22, 26, 32, 0] 
+  Score: 230 | Time: 26.8h | Distance: 27km
+Vehicle 3: 
+  Route: [0, 19, 12, 14, 5, 0] 
+  Score: 140 | Time: 25.8h | Distance: 26km
+Vehicle 4: 
+  Route: [0, 5, 14, 12, 19, 0] 
+  Score: 140 | Time: 25.8h | Distance: 26km
+Total Score: 740 | Runtime: 24ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 960.0):
+Seed: -8403518835424053003
+Vehicle 1: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 2, 0] 
+  Score: 240 | Time: 26.5h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 2, 0] 
+  Score: 240 | Time: 26.4h | Distance: 26km
+Vehicle 3: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 3, 0] 
+  Score: 240 | Time: 26.1h | Distance: 25km
+Vehicle 4: 
+  Route: [0, 21, 6, 4, 13, 27, 16, 19, 3, 0] 
+  Score: 240 | Time: 25.4h | Distance: 25km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.2.a.txt
+Number of Vehicles: 2
+Tmax: 10.0
+----------------------------------------
+
+==== Run 1 (Seed: 5578129018003617572) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 32ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 5299697281685229569) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 16ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 1622208624112384484) ====
+Vehicle 1: 
+  Route: [0, 29, 101, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 18ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 3820858496172903788) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 9ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 2555097092107506926) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 14ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 568569745025226361) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 20ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 7847786176503152894) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 23ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 1044228640983160539) ====
+Vehicle 1: 
+  Route: [0, 29, 101, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 25ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -7438001836995101625) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 24ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -7406733817617894266) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Total Score: 32 | Runtime: 25ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 32.0):
+Seed: 5578129018003617572
+Vehicle 1: 
+  Route: [0, 101, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+Vehicle 2: 
+  Route: [0, 29, 0] 
+  Score: 16 | Time: 10.0h | Distance: 10km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.2.m.txt
+Number of Vehicles: 2
+Tmax: 103.0
+----------------------------------------
+
+==== Run 1 (Seed: -3266012848735957772) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 62, 84, 13, 59, 98, 8, 56, 99, 74, 60, 97, 11, 23, 12, 42, 1, 100, 58, 57, 14, 63, 55, 29, 0] 
+  Score: 407 | Time: 127.0h | Distance: 127km
+Vehicle 2: 
+  Route: [0, 21, 77, 97, 11, 23, 12, 42, 1, 100, 58, 57, 14, 63, 55, 29, 30, 0] 
+  Score: 280 | Time: 120.4h | Distance: 117km
+Total Score: 687 | Runtime: 462ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 5613734267545800611) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 38, 50, 51, 9, 93, 20, 39, 21, 13, 77, 22, 60, 97, 11, 100, 58, 0] 
+  Score: 290 | Time: 129.7h | Distance: 130km
+Vehicle 2: 
+  Route: [0, 30, 39, 21, 13, 98, 74, 99, 60, 97, 11, 23, 42, 94, 56, 8, 100, 58, 14, 0] 
+  Score: 294 | Time: 114.1h | Distance: 102km
+Total Score: 584 | Runtime: 341ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -2307095113482044641) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 84, 77, 22, 36, 23, 97, 60, 11, 99, 74, 98, 59, 21, 57, 8, 56, 100, 58, 14, 63, 0] 
+  Score: 335 | Time: 128.5h | Distance: 118km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 58, 100, 56, 11, 23, 36, 22, 77, 60, 97, 99, 74, 8, 98, 59, 13, 57, 21, 0] 
+  Score: 337 | Time: 121.6h | Distance: 111km
+Total Score: 672 | Runtime: 424ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -2783235096767851554) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 21, 57, 8, 98, 74, 99, 60, 97, 36, 42, 11, 56, 100, 1, 54, 58, 14, 63, 0] 
+  Score: 331 | Time: 117.4h | Distance: 114km
+Vehicle 2: 
+  Route: [0, 95, 81, 63, 14, 58, 56, 11, 42, 36, 97, 60, 74, 99, 8, 98, 59, 57, 21, 41, 75, 39, 0] 
+  Score: 315 | Time: 130.0h | Distance: 123km
+Total Score: 646 | Runtime: 447ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 708522944371247703) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 57, 58, 100, 8, 98, 59, 60, 99, 56, 11, 12, 67, 37, 54, 85, 1, 0] 
+  Score: 297 | Time: 121.8h | Distance: 122km
+Vehicle 2: 
+  Route: [0, 55, 85, 54, 37, 94, 67, 12, 42, 1, 56, 11, 60, 99, 98, 59, 8, 100, 58, 14, 63, 0] 
+  Score: 310 | Time: 129.5h | Distance: 125km
+Total Score: 607 | Runtime: 439ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 5788789925002606186) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 29, 88, 61, 33, 10, 92, 52, 15, 51, 50, 20, 28, 48, 49, 27, 91, 90, 75, 39, 0] 
+  Score: 288 | Time: 129.7h | Distance: 128km
+Vehicle 2: 
+  Route: [0, 41, 75, 90, 48, 91, 49, 27, 62, 21, 59, 98, 8, 99, 74, 60, 97, 56, 100, 58, 57, 14, 63, 55, 0] 
+  Score: 320 | Time: 126.1h | Distance: 116km
+Total Score: 608 | Runtime: 438ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -7484434173440171206) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 50, 33, 10, 34, 92, 52, 51, 9, 93, 20, 26, 48, 49, 91, 90, 75, 41, 0] 
+  Score: 279 | Time: 129.8h | Distance: 126km
+Vehicle 2: 
+  Route: [0, 39, 14, 41, 75, 27, 49, 91, 48, 20, 93, 9, 71, 52, 51, 50, 30, 0] 
+  Score: 273 | Time: 128.7h | Distance: 129km
+Total Score: 552 | Runtime: 378ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 6309010728439783600) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 40, 82, 16, 49, 27, 91, 48, 90, 26, 75, 39, 57, 14, 55, 81, 29, 0] 
+  Score: 254 | Time: 129.3h | Distance: 129km
+Vehicle 2: 
+  Route: [0, 39, 28, 20, 40, 82, 16, 49, 27, 91, 48, 90, 26, 75, 41, 21, 14, 57, 8, 56, 100, 63, 0] 
+  Score: 337 | Time: 125.8h | Distance: 126km
+Total Score: 591 | Runtime: 426ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -6122489368474485417) ====
+Vehicle 1: 
+  Route: [0, 101, 88, 61, 38, 30, 39, 21, 57, 13, 59, 98, 74, 60, 97, 11, 99, 8, 100, 56, 1, 85, 0] 
+  Score: 307 | Time: 123.3h | Distance: 123km
+Vehicle 2: 
+  Route: [0, 29, 3, 95, 94, 67, 42, 11, 56, 99, 74, 13, 59, 98, 8, 100, 58, 55, 0] 
+  Score: 258 | Time: 127.5h | Distance: 116km
+Total Score: 565 | Runtime: 393ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -4816514478128027665) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 24, 54, 85, 1, 12, 60, 74, 99, 98, 59, 13, 21, 14, 57, 8, 56, 100, 58, 63, 0] 
+  Score: 320 | Time: 129.6h | Distance: 120km
+Vehicle 2: 
+  Route: [0, 63, 58, 100, 11, 12, 36, 22, 84, 13, 59, 98, 8, 57, 14, 21, 0] 
+  Score: 282 | Time: 122.5h | Distance: 106km
+Total Score: 602 | Runtime: 402ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 687.0):
+Seed: -3266012848735957772
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 62, 84, 13, 59, 98, 8, 56, 99, 74, 60, 97, 11, 23, 12, 42, 1, 100, 58, 57, 14, 63, 55, 29, 0] 
+  Score: 407 | Time: 127.0h | Distance: 127km
+Vehicle 2: 
+  Route: [0, 21, 77, 97, 11, 23, 12, 42, 1, 100, 58, 57, 14, 63, 55, 29, 30, 0] 
+  Score: 280 | Time: 120.4h | Distance: 117km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.3.h.txt
+Number of Vehicles: 3
+Tmax: 53.3
+----------------------------------------
+
+==== Run 1 (Seed: -3453958418606265108) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 75, 28, 30, 88, 29, 0] 
+  Score: 96 | Time: 51.9h | Distance: 52km
+Vehicle 2: 
+  Route: [0, 29, 88, 30, 28, 75, 41, 39, 0] 
+  Score: 96 | Time: 51.9h | Distance: 52km
+Vehicle 3: 
+  Route: [0, 39, 41, 75, 28, 30, 0] 
+  Score: 74 | Time: 35.2h | Distance: 35km
+Total Score: 266 | Runtime: 202ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 6527751421452677130) ====
+Vehicle 1: 
+  Route: [0, 101, 48, 90, 39, 0] 
+  Score: 48 | Time: 45.8h | Distance: 46km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 58, 8, 99, 74, 98, 57, 21, 0] 
+  Score: 147 | Time: 52.2h | Distance: 52km
+Vehicle 3: 
+  Route: [0, 21, 57, 98, 74, 99, 8, 58, 14, 63, 55, 0] 
+  Score: 147 | Time: 52.2h | Distance: 52km
+Total Score: 342 | Runtime: 173ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 1241881084257324109) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 20, 28, 30, 0] 
+  Score: 74 | Time: 51.4h | Distance: 51km
+Vehicle 2: 
+  Route: [0, 39, 41, 62, 13, 59, 21, 0] 
+  Score: 100 | Time: 47.5h | Distance: 48km
+Vehicle 3: 
+  Route: [0, 39, 41, 62, 13, 59, 21, 0] 
+  Score: 100 | Time: 47.5h | Distance: 48km
+Total Score: 274 | Runtime: 168ms
+--------------------------------------------------
+
+==== Run 4 (Seed: 8973597717151502615) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 51, 15, 50, 29, 0] 
+  Score: 72 | Time: 50.4h | Distance: 48km
+Vehicle 2: 
+  Route: [0, 21, 14, 57, 59, 98, 74, 99, 100, 58, 63, 0] 
+  Score: 125 | Time: 52.0h | Distance: 52km
+Vehicle 3: 
+  Route: [0, 21, 14, 57, 59, 98, 74, 99, 100, 58, 63, 0] 
+  Score: 125 | Time: 52.0h | Distance: 52km
+Total Score: 322 | Runtime: 190ms
+--------------------------------------------------
+
+==== Run 5 (Seed: 5136851805926558629) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 65, 24, 0] 
+  Score: 36 | Time: 53.1h | Distance: 53km
+Vehicle 2: 
+  Route: [0, 39, 41, 75, 28, 30, 29, 0] 
+  Score: 90 | Time: 47.9h | Distance: 41km
+Vehicle 3: 
+  Route: [0, 21, 14, 57, 59, 98, 8, 100, 58, 0] 
+  Score: 132 | Time: 50.1h | Distance: 47km
+Total Score: 258 | Runtime: 186ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 7174893122425216148) ====
+Vehicle 1: 
+  Route: [0, 101, 21, 39, 30, 29, 0] 
+  Score: 69 | Time: 42.5h | Distance: 39km
+Vehicle 2: 
+  Route: [0, 50, 51, 9, 93, 20, 0] 
+  Score: 88 | Time: 48.1h | Distance: 48km
+Vehicle 3: 
+  Route: [0, 20, 93, 9, 51, 50, 0] 
+  Score: 88 | Time: 48.1h | Distance: 48km
+Total Score: 245 | Runtime: 159ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -7622722379824938803) ====
+Vehicle 1: 
+  Route: [0, 101, 28, 30, 61, 29, 0] 
+  Score: 59 | Time: 47.1h | Distance: 47km
+Vehicle 2: 
+  Route: [0, 21, 57, 59, 98, 8, 56, 100, 58, 14, 63, 0] 
+  Score: 157 | Time: 51.1h | Distance: 51km
+Vehicle 3: 
+  Route: [0, 21, 57, 59, 98, 8, 56, 100, 58, 14, 63, 0] 
+  Score: 157 | Time: 52.2h | Distance: 51km
+Total Score: 373 | Runtime: 165ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 7106538728541225895) ====
+Vehicle 1: 
+  Route: [0, 101, 30, 20, 28, 39, 55, 0] 
+  Score: 81 | Time: 51.4h | Distance: 51km
+Vehicle 2: 
+  Route: [0, 55, 63, 14, 58, 100, 8, 98, 57, 21, 41, 0] 
+  Score: 156 | Time: 51.8h | Distance: 52km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 58, 100, 8, 98, 57, 21, 41, 0] 
+  Score: 156 | Time: 51.8h | Distance: 52km
+Total Score: 393 | Runtime: 209ms
+--------------------------------------------------
+
+==== Run 9 (Seed: -4988722144875966902) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 38, 50, 20, 30, 0] 
+  Score: 93 | Time: 51.1h | Distance: 51km
+Vehicle 2: 
+  Route: [0, 21, 13, 59, 57, 8, 100, 63, 0] 
+  Score: 121 | Time: 51.7h | Distance: 50km
+Vehicle 3: 
+  Route: [0, 21, 13, 59, 57, 8, 100, 63, 0] 
+  Score: 121 | Time: 51.7h | Distance: 50km
+Total Score: 335 | Runtime: 209ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -2427560405608369830) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 57, 58, 14, 63, 0] 
+  Score: 102 | Time: 52.3h | Distance: 49km
+Vehicle 2: 
+  Route: [0, 21, 14, 57, 59, 8, 100, 58, 63, 55, 0] 
+  Score: 148 | Time: 49.6h | Distance: 50km
+Vehicle 3: 
+  Route: [0, 55, 63, 58, 100, 8, 59, 57, 14, 21, 0] 
+  Score: 148 | Time: 49.6h | Distance: 50km
+Total Score: 398 | Runtime: 190ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 398.0):
+Seed: -2427560405608369830
+Vehicle 1: 
+  Route: [0, 101, 39, 75, 41, 57, 58, 14, 63, 0] 
+  Score: 102 | Time: 52.3h | Distance: 49km
+Vehicle 2: 
+  Route: [0, 21, 14, 57, 59, 8, 100, 58, 63, 55, 0] 
+  Score: 148 | Time: 49.6h | Distance: 50km
+Vehicle 3: 
+  Route: [0, 55, 63, 58, 100, 8, 59, 57, 14, 21, 0] 
+  Score: 148 | Time: 49.6h | Distance: 50km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.g.txt
+Number of Vehicles: 4
+Tmax: 35.0
+----------------------------------------
+
+==== Run 1 (Seed: -8919201762202647446) ====
+Vehicle 1: 
+  Route: [0, 101, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 41, 75, 39, 30, 0] 
+  Score: 57 | Time: 33.4h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.5h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.5h | Distance: 34km
+Total Score: 244 | Runtime: 139ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 3006124373331805301) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 30, 28, 39, 0] 
+  Score: 63 | Time: 32.3h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 282 | Runtime: 107ms
+--------------------------------------------------
+
+==== Run 3 (Seed: -8639201352205517301) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 21, 14, 63, 0] 
+  Score: 85 | Time: 34.5h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 33.5h | Distance: 31km
+Vehicle 3: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 33.5h | Distance: 31km
+Vehicle 4: 
+  Route: [0, 29, 30, 28, 0] 
+  Score: 49 | Time: 31.0h | Distance: 31km
+Total Score: 232 | Runtime: 103ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -2388093947372661031) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.6h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 101, 29, 39, 75, 41, 0] 
+  Score: 57 | Time: 34.6h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.6h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 41, 75, 39, 29, 0] 
+  Score: 57 | Time: 34.6h | Distance: 34km
+Total Score: 228 | Runtime: 101ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -4832867744301477756) ====
+Vehicle 1: 
+  Route: [0, 101, 14, 57, 58, 63, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 29, 88, 30, 39, 0] 
+  Score: 52 | Time: 34.7h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 28, 75, 41, 39, 0] 
+  Score: 58 | Time: 31.9h | Distance: 32km
+Vehicle 4: 
+  Route: [0, 39, 30, 88, 29, 0] 
+  Score: 52 | Time: 34.7h | Distance: 35km
+Total Score: 223 | Runtime: 101ms
+--------------------------------------------------
+
+==== Run 6 (Seed: 4019426907405143536) ====
+Vehicle 1: 
+  Route: [0, 101, 38, 30, 0] 
+  Score: 29 | Time: 35.0h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 14, 57, 58, 63, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 3: 
+  Route: [0, 14, 57, 58, 63, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Vehicle 4: 
+  Route: [0, 63, 58, 57, 14, 0] 
+  Score: 61 | Time: 34.9h | Distance: 35km
+Total Score: 212 | Runtime: 100ms
+--------------------------------------------------
+
+==== Run 7 (Seed: -1988647642650105784) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 88, 29, 0] 
+  Score: 36 | Time: 32.8h | Distance: 33km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 255 | Runtime: 148ms
+--------------------------------------------------
+
+==== Run 8 (Seed: -7849666979811578087) ====
+Vehicle 1: 
+  Route: [0, 30, 28, 0] 
+  Score: 33 | Time: 25.6h | Distance: 26km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Total Score: 252 | Runtime: 102ms
+--------------------------------------------------
+
+==== Run 9 (Seed: 4548638663588946625) ====
+Vehicle 1: 
+  Route: [0, 101, 3, 0] 
+  Score: 27 | Time: 34.9h | Distance: 35km
+Vehicle 2: 
+  Route: [0, 21, 14, 63, 55, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 3: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Vehicle 4: 
+  Route: [0, 55, 63, 14, 21, 0] 
+  Score: 68 | Time: 32.9h | Distance: 33km
+Total Score: 231 | Runtime: 108ms
+--------------------------------------------------
+
+==== Run 10 (Seed: -4890849644849695297) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 20, 30, 0] 
+  Score: 49 | Time: 33.6h | Distance: 34km
+Vehicle 2: 
+  Route: [0, 41, 21, 14, 63, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 63, 14, 21, 41, 0] 
+  Score: 71 | Time: 34.0h | Distance: 34km
+Total Score: 262 | Runtime: 109ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 282.0):
+Seed: 3006124373331805301
+Vehicle 1: 
+  Route: [0, 101, 29, 30, 28, 39, 0] 
+  Score: 63 | Time: 32.3h | Distance: 32km
+Vehicle 2: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 3: 
+  Route: [0, 63, 14, 57, 21, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+Vehicle 4: 
+  Route: [0, 21, 57, 14, 63, 0] 
+  Score: 73 | Time: 33.8h | Distance: 34km
+--------------------------------------------------
+
+ACO-TOP Algorithm Results
+Problem File: C:/Users/HP/Documents/Java/COS314/Data_TOP/p7.4.q.txt
+Number of Vehicles: 4
+Tmax: 85.0
+----------------------------------------
+
+==== Run 1 (Seed: -5406438870926965651) ====
+Vehicle 1: 
+  Route: [0, 101, 81, 95, 43, 18, 3, 88, 29, 39, 41, 0] 
+  Score: 134 | Time: 81.7h | Distance: 80km
+Vehicle 2: 
+  Route: [0, 39, 75, 41, 21, 59, 98, 99, 74, 60, 11, 8, 100, 58, 57, 14, 63, 0] 
+  Score: 252 | Time: 74.4h | Distance: 74km
+Vehicle 3: 
+  Route: [0, 75, 41, 13, 59, 98, 99, 74, 60, 11, 8, 100, 58, 57, 14, 21, 0] 
+  Score: 261 | Time: 80.8h | Distance: 79km
+Vehicle 4: 
+  Route: [0, 41, 21, 13, 59, 98, 8, 99, 60, 11, 100, 58, 57, 14, 63, 0] 
+  Score: 247 | Time: 83.6h | Distance: 73km
+Total Score: 894 | Runtime: 413ms
+--------------------------------------------------
+
+==== Run 2 (Seed: 5676752261149015286) ====
+Vehicle 1: 
+  Route: [0, 101, 63, 58, 100, 8, 98, 74, 99, 56, 97, 60, 77, 59, 57, 14, 21, 41, 39, 0] 
+  Score: 230 | Time: 82.4h | Distance: 82km
+Vehicle 2: 
+  Route: [0, 28, 20, 93, 9, 51, 15, 52, 10, 50, 30, 29, 0] 
+  Score: 199 | Time: 78.9h | Distance: 79km
+Vehicle 3: 
+  Route: [0, 39, 41, 21, 14, 57, 59, 77, 60, 97, 56, 99, 74, 98, 8, 100, 58, 0] 
+  Score: 227 | Time: 82.2h | Distance: 82km
+Vehicle 4: 
+  Route: [0, 29, 30, 50, 10, 52, 15, 51, 9, 93, 20, 0] 
+  Score: 182 | Time: 75.6h | Distance: 76km
+Total Score: 838 | Runtime: 406ms
+--------------------------------------------------
+
+==== Run 3 (Seed: 5665381438897357223) ====
+Vehicle 1: 
+  Route: [0, 101, 14, 57, 8, 56, 11, 99, 74, 98, 59, 13, 84, 62, 21, 41, 0] 
+  Score: 251 | Time: 79.9h | Distance: 77km
+Vehicle 2: 
+  Route: [0, 39, 62, 84, 13, 59, 98, 74, 99, 11, 56, 8, 100, 58, 63, 55, 0] 
+  Score: 215 | Time: 81.7h | Distance: 75km
+Vehicle 3: 
+  Route: [0, 41, 21, 14, 57, 98, 74, 8, 100, 56, 1, 0] 
+  Score: 183 | Time: 83.3h | Distance: 66km
+Vehicle 4: 
+  Route: [0, 41, 21, 13, 59, 98, 74, 99, 11, 56, 1, 94, 85, 54, 24, 0] 
+  Score: 221 | Time: 84.4h | Distance: 84km
+Total Score: 870 | Runtime: 393ms
+--------------------------------------------------
+
+==== Run 4 (Seed: -6639329160910391712) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 57, 59, 98, 74, 99, 60, 97, 23, 42, 11, 56, 8, 100, 58, 14, 63, 55, 0] 
+  Score: 272 | Time: 80.7h | Distance: 81km
+Vehicle 2: 
+  Route: [0, 24, 1, 42, 23, 11, 56, 100, 8, 98, 59, 57, 14, 63, 0] 
+  Score: 234 | Time: 78.3h | Distance: 78km
+Vehicle 3: 
+  Route: [0, 55, 85, 1, 42, 11, 56, 100, 8, 98, 59, 57, 58, 14, 63, 0] 
+  Score: 232 | Time: 83.7h | Distance: 73km
+Vehicle 4: 
+  Route: [0, 63, 14, 100, 8, 98, 74, 56, 11, 23, 42, 1, 24, 0] 
+  Score: 210 | Time: 84.7h | Distance: 80km
+Total Score: 948 | Runtime: 387ms
+--------------------------------------------------
+
+==== Run 5 (Seed: -6334697212187776917) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 58, 100, 8, 56, 99, 74, 77, 13, 59, 98, 57, 14, 21, 41, 39, 0] 
+  Score: 250 | Time: 83.9h | Distance: 80km
+Vehicle 2: 
+  Route: [0, 29, 88, 30, 39, 41, 21, 14, 57, 8, 56, 100, 58, 55, 0] 
+  Score: 225 | Time: 79.1h | Distance: 79km
+Vehicle 3: 
+  Route: [0, 39, 28, 20, 40, 93, 9, 52, 15, 51, 50, 30, 0] 
+  Score: 189 | Time: 84.3h | Distance: 74km
+Vehicle 4: 
+  Route: [0, 75, 28, 20, 93, 9, 52, 15, 51, 50, 38, 61, 0] 
+  Score: 173 | Time: 80.2h | Distance: 80km
+Total Score: 837 | Runtime: 422ms
+--------------------------------------------------
+
+==== Run 6 (Seed: -8518532108609293497) ====
+Vehicle 1: 
+  Route: [0, 101, 55, 1, 67, 42, 56, 99, 74, 98, 8, 100, 58, 0] 
+  Score: 146 | Time: 75.7h | Distance: 76km
+Vehicle 2: 
+  Route: [0, 63, 14, 58, 100, 56, 11, 42, 23, 97, 60, 74, 99, 8, 98, 59, 57, 21, 41, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+Vehicle 3: 
+  Route: [0, 63, 14, 58, 100, 56, 11, 42, 23, 97, 60, 74, 99, 8, 98, 59, 57, 21, 41, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+Vehicle 4: 
+  Route: [0, 41, 21, 57, 59, 98, 8, 99, 74, 60, 97, 23, 42, 11, 56, 100, 58, 14, 63, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+Total Score: 998 | Runtime: 400ms
+--------------------------------------------------
+
+==== Run 7 (Seed: 8230823618883187011) ====
+Vehicle 1: 
+  Route: [0, 101, 39, 41, 75, 26, 90, 91, 27, 49, 48, 28, 50, 30, 0] 
+  Score: 176 | Time: 83.6h | Distance: 84km
+Vehicle 2: 
+  Route: [0, 21, 62, 84, 60, 97, 11, 56, 99, 74, 8, 98, 59, 57, 14, 0] 
+  Score: 225 | Time: 84.9h | Distance: 83km
+Vehicle 3: 
+  Route: [0, 63, 14, 58, 100, 8, 56, 11, 97, 60, 99, 74, 98, 59, 57, 21, 0] 
+  Score: 234 | Time: 82.7h | Distance: 65km
+Vehicle 4: 
+  Route: [0, 21, 57, 74, 60, 97, 11, 99, 56, 8, 100, 58, 14, 63, 0] 
+  Score: 220 | Time: 83.2h | Distance: 64km
+Total Score: 855 | Runtime: 408ms
+--------------------------------------------------
+
+==== Run 8 (Seed: 6147035564064017821) ====
+Vehicle 1: 
+  Route: [0, 101, 75, 41, 21, 14, 57, 59, 98, 74, 60, 97, 11, 99, 56, 8, 100, 58, 55, 0] 
+  Score: 273 | Time: 78.9h | Distance: 79km
+Vehicle 2: 
+  Route: [0, 30, 50, 38, 33, 10, 17, 68, 31, 89, 61, 29, 0] 
+  Score: 156 | Time: 84.9h | Distance: 85km
+Vehicle 3: 
+  Route: [0, 29, 58, 100, 8, 56, 74, 98, 59, 57, 14, 21, 0] 
+  Score: 178 | Time: 79.6h | Distance: 63km
+Vehicle 4: 
+  Route: [0, 63, 85, 54, 65, 37, 1, 56, 8, 100, 58, 14, 0] 
+  Score: 165 | Time: 84.0h | Distance: 80km
+Total Score: 772 | Runtime: 419ms
+--------------------------------------------------
+
+==== Run 9 (Seed: 3446269555548518072) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 3, 95, 64, 53, 65, 39, 0] 
+  Score: 112 | Time: 84.8h | Distance: 85km
+Vehicle 2: 
+  Route: [0, 41, 21, 14, 57, 13, 59, 98, 74, 56, 8, 100, 1, 55, 0] 
+  Score: 236 | Time: 81.5h | Distance: 77km
+Vehicle 3: 
+  Route: [0, 30, 28, 21, 57, 59, 98, 74, 99, 11, 56, 8, 100, 58, 14, 0] 
+  Score: 246 | Time: 77.4h | Distance: 75km
+Vehicle 4: 
+  Route: [0, 30, 28, 21, 14, 57, 59, 98, 74, 56, 8, 100, 1, 55, 0] 
+  Score: 225 | Time: 84.0h | Distance: 84km
+Total Score: 819 | Runtime: 413ms
+--------------------------------------------------
+
+==== Run 10 (Seed: 4475479432311036519) ====
+Vehicle 1: 
+  Route: [0, 101, 29, 88, 61, 38, 50, 9, 93, 20, 30, 75, 39, 0] 
+  Score: 158 | Time: 76.8h | Distance: 77km
+Vehicle 2: 
+  Route: [0, 21, 13, 59, 74, 99, 60, 97, 11, 56, 100, 58, 8, 98, 57, 14, 0] 
+  Score: 257 | Time: 76.5h | Distance: 71km
+Vehicle 3: 
+  Route: [0, 55, 56, 11, 23, 36, 97, 60, 74, 99, 8, 57, 14, 63, 0] 
+  Score: 229 | Time: 83.9h | Distance: 77km
+Vehicle 4: 
+  Route: [0, 41, 13, 59, 98, 8, 99, 74, 60, 97, 11, 56, 42, 1, 0] 
+  Score: 224 | Time: 81.3h | Distance: 80km
+Total Score: 868 | Runtime: 406ms
+--------------------------------------------------
+
+Best Overall Run (Total Score: 998.0):
+Seed: -8518532108609293497
+Vehicle 1: 
+  Route: [0, 101, 55, 1, 67, 42, 56, 99, 74, 98, 8, 100, 58, 0] 
+  Score: 146 | Time: 75.7h | Distance: 76km
+Vehicle 2: 
+  Route: [0, 63, 14, 58, 100, 56, 11, 42, 23, 97, 60, 74, 99, 8, 98, 59, 57, 21, 41, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+Vehicle 3: 
+  Route: [0, 63, 14, 58, 100, 56, 11, 42, 23, 97, 60, 74, 99, 8, 98, 59, 57, 21, 41, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+Vehicle 4: 
+  Route: [0, 41, 21, 57, 59, 98, 8, 99, 74, 60, 97, 23, 42, 11, 56, 100, 58, 14, 63, 0] 
+  Score: 284 | Time: 79.9h | Distance: 80km
+--------------------------------------------------
